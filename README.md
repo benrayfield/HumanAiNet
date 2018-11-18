@@ -58,6 +58,10 @@ same as src dir, such as ${workspace_loc:{projectName}/src}
 How to start a RBM neuralnet experiment:
 mutable.rbm.ui.PaintSlidingVecUi
 
+How to run a debugger on runtime generated java code:
+mutable.compilers.JavaCompilers.get(true,true).compile(...see example in RBM.java how to divide the class parts...)
+then it pops up an OK button. Before you click it, refresh eclipse file tree, open the class you created, optionally put in a breakpoint, then click OK. Or you can use false params to not pop up the OK andOr use javassist (no debug info in classes but faster) instead of jdk (automatically looks on harddrive for it then calls it). This will normally happen automatically.
+
 COMPUTE THEORY (TO BE ORGANIZED INTO THE MAIN PROJECT):
 The compute theory parts will mostly be in "immutable" java package,
 especially immutable.binufnode.
