@@ -1,3 +1,6 @@
+<img src=https://github.com/benrayfield/HumanAiNet/raw/master/data/website/rbm2018-4.png height=250>
+<img src=https://github.com/benrayfield/HumanAiNet/raw/master/data/website/rbm2018-5.png height=250>
+
 This is an early prototype of a p2p massively multiplayer games and AI research platform,
 including research on neuralnets and computing theory.
 The computing theory (TODO include more of those files)
