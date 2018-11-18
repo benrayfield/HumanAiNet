@@ -34,7 +34,7 @@ incompatibility wars fueled by business interests to keep us separated and depen
 This project is not to control anyone but to give people tools to work together
 with defense against eachothers doings in the network but but without needing to control eachother.
 Everything will be by fork-edit at single variable granularity
-so if you dont like what someone does, dont build on their fork (as your AIs will automatically
+so if you dont like what someone does, dont build on that fork (as your AIs will automatically
 do however you want them to, including how they build new AIs and games etc, all in a global sandbox).
 
 OS compatibility:
