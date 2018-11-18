@@ -1,5 +1,8 @@
-<img src=https://github.com/benrayfield/HumanAiNet/raw/master/data/website/rbm2018-4.png height=250>
-<img src=https://github.com/benrayfield/HumanAiNet/raw/master/data/website/rbm2018-5.png height=250>
+HumanAiNet
+Early prototype of a p2p massively multiplayer games and AI research platform for a global sandbox millions of people can build mindbendingly interesting stuff together at gaming low lag - This is benrayfield's main project currently refactoring other projects into.
+
+<nobr><img src=https://github.com/benrayfield/HumanAiNet/raw/master/data/website/rbm2018-4.png height=250>
+<img src=https://github.com/benrayfield/HumanAiNet/raw/master/data/website/rbm2018-5.png height=250></nobr>
 
 This is an early prototype of a p2p massively multiplayer games and AI research platform,
 including research on neuralnets and computing theory.
