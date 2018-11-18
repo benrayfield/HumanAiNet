@@ -61,7 +61,7 @@ mutable.rbm.ui.PaintSlidingVecUi
 
 How to run a debugger on runtime generated java code:
 mutable.compilers.JavaCompilers.get(true,true).compile(...see example in RBM.java how to divide the class parts...)
-then it pops up an OK button. Before you click it, refresh eclipse file tree, open the class you created, optionally put in a breakpoint, then click OK. Or you can use false params to not pop up the OK andOr use javassist (no debug info in classes but faster) instead of jdk (automatically looks on harddrive for it then calls it). This will normally happen automatically.
+then it pops up an OK button. Before you click it, refresh eclipse file tree, open the class you created, optionally put in a breakpoint, then click OK. Or you can use false params to not pop up the OK andOr use javassist (no debug info in classes but faster) instead of jdk (automatically looks on harddrive for it then calls it). This will normally happen automatically, such as in the mutable.rbm.ui.PaintSlidingVecUi window you type java code to change the learning algorithm while its learning, slightly modified so you dont have to type array indexs as its the body of a doubleloop called after tripleloop in GPU, and if it compiles it works instantly and you see the neural weight continue to change on screen else the code editor rectangle becomes gray until you change it to a valid code.
 
 COMPUTE THEORY (TO BE ORGANIZED INTO THE MAIN PROJECT):
 The compute theory parts will mostly be in "immutable" java package,
