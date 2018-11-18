@@ -1,4 +1,5 @@
-Copyright Ben F Rayfield (except for dependencies LWJGL and Javassist etc), all MIT compatible.
+Original software 2018-11+ is copyright Ben F Rayfield (except for dependencies LWJGL and Javassist etc),
+all MIT compatible, not to imply that for future forks.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
