@@ -47,6 +47,7 @@ which inTheory can move low lag data between speakers, microphones, GPUs, and CP
 Dependencies (included for 64 bit windows, TODO for Linux too):
 Java 8+ (not included)
 LWJGL2 (for OpenCL optimizations makes things 50 times faster, see mutable.util.OpenclUtil)
+Javassist (included)
 
 Required commandline options (in Eclipse forExample):
 -Djava.library.path={projectDir}\data\tempLib
