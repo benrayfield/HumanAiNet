@@ -38,6 +38,7 @@ so if you dont like what someone does, dont build on that fork (as your AIs will
 do however you want them to, including how they build new AIs and games etc, all in a global sandbox).
 
 OS compatibility:
+The parts other than LWJGL already work on Linux.
 In theory will work almost anywhere but for now (2018-11) only the
 Windows distribution of LWJGL is included by default. It does have a Linux distro too.
 Its important to get it working on Linux before the music tools cuz of lower lag in JSoundCard,
