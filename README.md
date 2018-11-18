@@ -3,6 +3,7 @@ Early prototype of a p2p massively multiplayer games and AI research platform fo
 
 <nobr><img src=https://github.com/benrayfield/HumanAiNet/raw/master/data/website/rbm2018-4.png height=250>
 <img src=https://github.com/benrayfield/HumanAiNet/raw/master/data/website/rbm2018-5.png height=250></nobr>
+It was smarter neuralnet before the LearnLoop.java redesign and am still tuning it to emulate what the previous version did. There are a variety of games and things can build in it. These are pics of RBM neuralnet.
 
 This is an early prototype of a p2p massively multiplayer games and AI research platform,
 including research on neuralnets and computing theory.
