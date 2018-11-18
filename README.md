@@ -32,7 +32,7 @@ The Internet should be a bunch of people building mindbendingly interesting stuf
 trying to form open standards in how those things work together instead of
 incompatibility wars fueled by business interests to keep us separated and dependent on them.
 This project is not to control anyone but to give people tools to work together
-with defense against eachothers doings in the network but but without needing to control eachother.
+with defense against eachothers doings in the network but without needing to control eachother.
 Everything will be by fork-edit at single variable granularity
 so if you dont like what someone does, dont build on that fork (as your AIs will automatically
 do however you want them to, including how they build new AIs and games etc, all in a global sandbox).
