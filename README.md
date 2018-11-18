@@ -1,5 +1,3 @@
-early prototype of a p2p massively multiplayer games and AI research platform for a global sandbox millions of people can build mindbendingly interesting stuff together at gaming low lag
-
 This is an early prototype of a p2p massively multiplayer games and AI research platform,
 including research on neuralnets and computing theory.
 The computing theory (TODO include more of those files)
