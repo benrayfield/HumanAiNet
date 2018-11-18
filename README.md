@@ -1,5 +1,3 @@
-Ben F Rayfield offers this software opensource GNU GPL 2+ (TODO considering other licenses).
-
 early prototype of a p2p massively multiplayer games and AI research platform for a global sandbox millions of people can build mindbendingly interesting stuff together at gaming low lag
 
 This is an early prototype of a p2p massively multiplayer games and AI research platform,
