@@ -48,7 +48,7 @@ Java 8+ (not included)
 LWJGL2 (for OpenCL optimizations makes things 50 times faster, see mutable.util.OpenclUtil)
 
 Required commandline options (in Eclipse forExample):
--Djava.library.path=<projectDir>\data\tempLib
+-Djava.library.path={projectDir}\data\tempLib
 Also include to classpath all the jar files in that dir, which are mostly from LWJGL2.
 
 Working Directory (such as in Eclipse):
