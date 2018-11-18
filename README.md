@@ -52,7 +52,7 @@ Required commandline options (in Eclipse forExample):
 Also include to classpath all the jar files in that dir, which are mostly from LWJGL2.
 
 Working Directory (such as in Eclipse):
-same as src dir, such as ${workspace_loc:<projectName>/src}
+same as src dir, such as ${workspace_loc:{projectName}/src}
 
 How to start a RBM neuralnet experiment:
 mutable.rbm.ui.PaintSlidingVecUi
